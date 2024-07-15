@@ -9,4 +9,5 @@ from silero_vad.utils_vad import (get_speech_timestamps,
                                   save_audio,
                                   read_audio,
                                   VADIterator,
-                                  collect_chunks)
+                                  collect_chunks,
+                                  customised_read_audio)
